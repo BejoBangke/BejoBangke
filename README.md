@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BejoBangke
+- 👋 Hi, I’m Darmawansyah
 - 👀 I’m interested in Sleep
-- 🌱 I’m currently learning Java x PhP
-- 💞️ I’m looking to collaborate on None
+- 🌱 I’m currently learning Computer Language
+- 💞️ I’m looking for cheat sheet since life is hars as it is :(
 - 📫 How to reach me thecrownlessquin@gmail.com
 
 <!---
